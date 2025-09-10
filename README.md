@@ -1,6 +1,6 @@
 Building a Recommender System with Steam Dataset
 
-In this task, you will work with a dataset extracted from Steam, an online video game distribution platform. 
+In this task, we will work with a dataset extracted from Steam, an online video game distribution platform. 
 The dataset is provided as steam-200k.csv and contains information about members’ purchase and play behaviors.
 
 The dataset has four columns:
